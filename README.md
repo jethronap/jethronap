@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
-I'm a software developer specializing in backend web development and AI/ML projects.
+I'm a software developer specializing in backend development and AI/ML projects.
 
 ## 🚀 Skills
 
